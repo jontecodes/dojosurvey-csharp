@@ -1,0 +1,13 @@
+* {
+    vertical-align: top;
+    text-align: center;
+}
+
+#wrapper {
+    padding: 10px 20px;
+}
+
+#container {
+    padding: 10px;
+    outline: 1px solid black;
+}
